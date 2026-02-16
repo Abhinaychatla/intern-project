@@ -1,4 +1,4 @@
-# 🚀 Frontend Developer Intern Assignment
+
 
 A full-stack scalable web application built with authentication, protected routes, and a dashboard with CRUD operations.
 
